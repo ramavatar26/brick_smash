@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+#screen {
+  border: 1px solid black;
+}
+img {
+  display: none;
+}
